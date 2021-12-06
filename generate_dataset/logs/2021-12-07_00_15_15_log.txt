@@ -1,0 +1,1702 @@
+Will be generated and calculated 261 files
+fileNumber: 0 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 0 0 fileNumber: 1
+fileNumber: 1 with values:
+0.5 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 2 with values:
+1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 1 0 fileNumber: 3
+fileNumber: 3 with values:
+0 0.5 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 4 with values:
+0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 2 0 fileNumber: 5
+fileNumber: 5 with values:
+0 0 0.5 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 6 with values:
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 3 0 fileNumber: 7
+fileNumber: 7 with values:
+0 0 0 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 8 with values:
+0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 4 0 fileNumber: 9
+fileNumber: 9 with values:
+0 0 0 0 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 10 with values:
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 5 0 fileNumber: 11
+fileNumber: 11 with values:
+0 0 0 0 0 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 12 with values:
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 6 0 fileNumber: 13
+fileNumber: 13 with values:
+0 0 0 0 0 0 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 14 with values:
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 7 0 fileNumber: 15
+fileNumber: 15 with values:
+0 0 0 0 0 0 0 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 16 with values:
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 8 0 fileNumber: 17
+fileNumber: 17 with values:
+0 0 0 0 0 0 0 0 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 18 with values:
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 9 0 fileNumber: 19
+fileNumber: 19 with values:
+0 0 0 0 0 0 0 0 0 0.5 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 20 with values:
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 0 1 fileNumber: 21
+fileNumber: 21 with values:
+0 0 0 0 0 0 0 0 0 0 
+0.5 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 22 with values:
+0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 1 1 fileNumber: 23
+fileNumber: 23 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 24 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 2 1 fileNumber: 25
+fileNumber: 25 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 26 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 3 1 fileNumber: 27
+fileNumber: 27 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 28 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 4 1 fileNumber: 29
+fileNumber: 29 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 30 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 5 1 fileNumber: 31
+fileNumber: 31 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 32 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 6 1 fileNumber: 33
+fileNumber: 33 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 34 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 7 1 fileNumber: 35
+fileNumber: 35 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 36 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 8 1 fileNumber: 37
+fileNumber: 37 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 38 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 9 1 fileNumber: 39
+fileNumber: 39 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0.5 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 40 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 0 2 fileNumber: 41
+fileNumber: 41 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0.5 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 42 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 1 2 fileNumber: 43
+fileNumber: 43 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 44 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 2 2 fileNumber: 45
+fileNumber: 45 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 46 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 3 2 fileNumber: 47
+fileNumber: 47 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 48 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 4 2 fileNumber: 49
+fileNumber: 49 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 50 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 5 2 fileNumber: 51
+fileNumber: 51 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 52 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 6 2 fileNumber: 53
+fileNumber: 53 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 54 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 7 2 fileNumber: 55
+fileNumber: 55 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 56 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 8 2 fileNumber: 57
+fileNumber: 57 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 58 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 9 2 fileNumber: 59
+fileNumber: 59 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0.5 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 60 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 0 3 fileNumber: 61
+fileNumber: 61 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0.5 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 62 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 1 3 fileNumber: 63
+fileNumber: 63 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 64 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 2 3 fileNumber: 65
+fileNumber: 65 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 66 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 3 3 fileNumber: 67
+fileNumber: 67 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 68 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 4 3 fileNumber: 69
+fileNumber: 69 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 70 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 5 3 fileNumber: 71
+fileNumber: 71 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 72 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 6 3 fileNumber: 73
+fileNumber: 73 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 74 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 7 3 fileNumber: 75
+fileNumber: 75 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 76 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 8 3 fileNumber: 77
+fileNumber: 77 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 78 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 9 3 fileNumber: 79
+fileNumber: 79 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0.5 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 80 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 0 4 fileNumber: 81
+fileNumber: 81 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0.5 0 0 0 0 0 0 0 0 0 
+fileNumber: 82 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 1 4 fileNumber: 83
+fileNumber: 83 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0 0 0 0 0 0 0 0 
+fileNumber: 84 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 2 4 fileNumber: 85
+fileNumber: 85 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0 0 0 0 0 0 0 
+fileNumber: 86 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 3 4 fileNumber: 87
+fileNumber: 87 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0 0 0 0 0 0 
+fileNumber: 88 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 4 4 fileNumber: 89
+fileNumber: 89 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0 0 0 0 0 
+fileNumber: 90 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+squareSize: 1 xpos,zpos: 5 4 fileNumber: 91
+fileNumber: 91 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0 0 0 0 
+fileNumber: 92 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+squareSize: 1 xpos,zpos: 6 4 fileNumber: 93
+fileNumber: 93 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0 0 0 
+fileNumber: 94 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 
+squareSize: 1 xpos,zpos: 7 4 fileNumber: 95
+fileNumber: 95 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0.5 0 0 
+fileNumber: 96 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+squareSize: 1 xpos,zpos: 8 4 fileNumber: 97
+fileNumber: 97 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0.5 0 
+fileNumber: 98 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 
+squareSize: 1 xpos,zpos: 9 4 fileNumber: 99
+fileNumber: 99 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0.5 
+fileNumber: 100 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+---------------------
+squareSize: 2 xpos,zpos: 0 0 fileNumber: 101
+fileNumber: 101 with values:
+0.5 0.5 0 0 0 0 0 0 0 0 
+0.5 0.5 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 102 with values:
+1 1 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 1 0 fileNumber: 103
+fileNumber: 103 with values:
+0 0.5 0.5 0 0 0 0 0 0 0 
+0 0.5 0.5 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 104 with values:
+0 1 1 0 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 2 0 fileNumber: 105
+fileNumber: 105 with values:
+0 0 0.5 0.5 0 0 0 0 0 0 
+0 0 0.5 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 106 with values:
+0 0 1 1 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 3 0 fileNumber: 107
+fileNumber: 107 with values:
+0 0 0 0.5 0.5 0 0 0 0 0 
+0 0 0 0.5 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 108 with values:
+0 0 0 1 1 0 0 0 0 0 
+0 0 0 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 4 0 fileNumber: 109
+fileNumber: 109 with values:
+0 0 0 0 0.5 0.5 0 0 0 0 
+0 0 0 0 0.5 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 110 with values:
+0 0 0 0 1 1 0 0 0 0 
+0 0 0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 5 0 fileNumber: 111
+fileNumber: 111 with values:
+0 0 0 0 0 0.5 0.5 0 0 0 
+0 0 0 0 0 0.5 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 112 with values:
+0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 6 0 fileNumber: 113
+fileNumber: 113 with values:
+0 0 0 0 0 0 0.5 0.5 0 0 
+0 0 0 0 0 0 0.5 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 114 with values:
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 7 0 fileNumber: 115
+fileNumber: 115 with values:
+0 0 0 0 0 0 0 0.5 0.5 0 
+0 0 0 0 0 0 0 0.5 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 116 with values:
+0 0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 8 0 fileNumber: 117
+fileNumber: 117 with values:
+0 0 0 0 0 0 0 0 0.5 0.5 
+0 0 0 0 0 0 0 0 0.5 0.5 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 118 with values:
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 0 1 fileNumber: 119
+fileNumber: 119 with values:
+0 0 0 0 0 0 0 0 0 0 
+0.5 0.5 0 0 0 0 0 0 0 0 
+0.5 0.5 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 120 with values:
+0 0 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 1 1 fileNumber: 121
+fileNumber: 121 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0.5 0 0 0 0 0 0 0 
+0 0.5 0.5 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 122 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 2 1 fileNumber: 123
+fileNumber: 123 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0.5 0 0 0 0 0 0 
+0 0 0.5 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 124 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 3 1 fileNumber: 125
+fileNumber: 125 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0.5 0 0 0 0 0 
+0 0 0 0.5 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 126 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 0 0 0 0 0 
+0 0 0 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 4 1 fileNumber: 127
+fileNumber: 127 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0.5 0 0 0 0 
+0 0 0 0 0.5 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 128 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 0 0 0 
+0 0 0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 5 1 fileNumber: 129
+fileNumber: 129 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0.5 0 0 0 
+0 0 0 0 0 0.5 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 130 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 6 1 fileNumber: 131
+fileNumber: 131 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0.5 0 0 
+0 0 0 0 0 0 0.5 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 132 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 7 1 fileNumber: 133
+fileNumber: 133 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0.5 0.5 0 
+0 0 0 0 0 0 0 0.5 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 134 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 8 1 fileNumber: 135
+fileNumber: 135 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0.5 0.5 
+0 0 0 0 0 0 0 0 0.5 0.5 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 136 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 0 2 fileNumber: 137
+fileNumber: 137 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0.5 0.5 0 0 0 0 0 0 0 0 
+0.5 0.5 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 138 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 1 2 fileNumber: 139
+fileNumber: 139 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0.5 0 0 0 0 0 0 0 
+0 0.5 0.5 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 140 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 2 2 fileNumber: 141
+fileNumber: 141 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0.5 0 0 0 0 0 0 
+0 0 0.5 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 142 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 3 2 fileNumber: 143
+fileNumber: 143 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0.5 0 0 0 0 0 
+0 0 0 0.5 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 144 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 0 0 0 0 0 
+0 0 0 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 4 2 fileNumber: 145
+fileNumber: 145 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0.5 0 0 0 0 
+0 0 0 0 0.5 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 146 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 0 0 0 
+0 0 0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 5 2 fileNumber: 147
+fileNumber: 147 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0.5 0 0 0 
+0 0 0 0 0 0.5 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 148 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 6 2 fileNumber: 149
+fileNumber: 149 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0.5 0 0 
+0 0 0 0 0 0 0.5 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 150 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 7 2 fileNumber: 151
+fileNumber: 151 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0.5 0.5 0 
+0 0 0 0 0 0 0 0.5 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 152 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 8 2 fileNumber: 153
+fileNumber: 153 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0.5 0.5 
+0 0 0 0 0 0 0 0 0.5 0.5 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 154 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 0 3 fileNumber: 155
+fileNumber: 155 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0.5 0.5 0 0 0 0 0 0 0 0 
+0.5 0.5 0 0 0 0 0 0 0 0 
+fileNumber: 156 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 1 3 fileNumber: 157
+fileNumber: 157 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0.5 0 0 0 0 0 0 0 
+0 0.5 0.5 0 0 0 0 0 0 0 
+fileNumber: 158 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 2 3 fileNumber: 159
+fileNumber: 159 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0.5 0 0 0 0 0 0 
+0 0 0.5 0.5 0 0 0 0 0 0 
+fileNumber: 160 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 3 3 fileNumber: 161
+fileNumber: 161 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0.5 0 0 0 0 0 
+0 0 0 0.5 0.5 0 0 0 0 0 
+fileNumber: 162 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 0 0 0 0 0 
+0 0 0 1 1 0 0 0 0 0 
+squareSize: 2 xpos,zpos: 4 3 fileNumber: 163
+fileNumber: 163 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0.5 0 0 0 0 
+0 0 0 0 0.5 0.5 0 0 0 0 
+fileNumber: 164 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 0 0 0 
+0 0 0 0 1 1 0 0 0 0 
+squareSize: 2 xpos,zpos: 5 3 fileNumber: 165
+fileNumber: 165 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0.5 0 0 0 
+0 0 0 0 0 0.5 0.5 0 0 0 
+fileNumber: 166 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 1 1 0 0 0 
+squareSize: 2 xpos,zpos: 6 3 fileNumber: 167
+fileNumber: 167 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0.5 0 0 
+0 0 0 0 0 0 0.5 0.5 0 0 
+fileNumber: 168 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 1 1 0 0 
+squareSize: 2 xpos,zpos: 7 3 fileNumber: 169
+fileNumber: 169 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0.5 0.5 0 
+0 0 0 0 0 0 0 0.5 0.5 0 
+fileNumber: 170 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 1 1 0 
+squareSize: 2 xpos,zpos: 8 3 fileNumber: 171
+fileNumber: 171 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0.5 0.5 
+0 0 0 0 0 0 0 0 0.5 0.5 
+fileNumber: 172 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 1 1 
+---------------------
+squareSize: 3 xpos,zpos: 0 0 fileNumber: 173
+fileNumber: 173 with values:
+0.5 0.5 0.5 0 0 0 0 0 0 0 
+0.5 0.5 0.5 0 0 0 0 0 0 0 
+0.5 0.5 0.5 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 174 with values:
+1 1 1 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 1 0 fileNumber: 175
+fileNumber: 175 with values:
+0 0.5 0.5 0.5 0 0 0 0 0 0 
+0 0.5 0.5 0.5 0 0 0 0 0 0 
+0 0.5 0.5 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 176 with values:
+0 1 1 1 0 0 0 0 0 0 
+0 1 1 1 0 0 0 0 0 0 
+0 1 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 2 0 fileNumber: 177
+fileNumber: 177 with values:
+0 0 0.5 0.5 0.5 0 0 0 0 0 
+0 0 0.5 0.5 0.5 0 0 0 0 0 
+0 0 0.5 0.5 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 178 with values:
+0 0 1 1 1 0 0 0 0 0 
+0 0 1 1 1 0 0 0 0 0 
+0 0 1 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 3 0 fileNumber: 179
+fileNumber: 179 with values:
+0 0 0 0.5 0.5 0.5 0 0 0 0 
+0 0 0 0.5 0.5 0.5 0 0 0 0 
+0 0 0 0.5 0.5 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 180 with values:
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 4 0 fileNumber: 181
+fileNumber: 181 with values:
+0 0 0 0 0.5 0.5 0.5 0 0 0 
+0 0 0 0 0.5 0.5 0.5 0 0 0 
+0 0 0 0 0.5 0.5 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 182 with values:
+0 0 0 0 1 1 1 0 0 0 
+0 0 0 0 1 1 1 0 0 0 
+0 0 0 0 1 1 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 5 0 fileNumber: 183
+fileNumber: 183 with values:
+0 0 0 0 0 0.5 0.5 0.5 0 0 
+0 0 0 0 0 0.5 0.5 0.5 0 0 
+0 0 0 0 0 0.5 0.5 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 184 with values:
+0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 6 0 fileNumber: 185
+fileNumber: 185 with values:
+0 0 0 0 0 0 0.5 0.5 0.5 0 
+0 0 0 0 0 0 0.5 0.5 0.5 0 
+0 0 0 0 0 0 0.5 0.5 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 186 with values:
+0 0 0 0 0 0 1 1 1 0 
+0 0 0 0 0 0 1 1 1 0 
+0 0 0 0 0 0 1 1 1 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 7 0 fileNumber: 187
+fileNumber: 187 with values:
+0 0 0 0 0 0 0 0.5 0.5 0.5 
+0 0 0 0 0 0 0 0.5 0.5 0.5 
+0 0 0 0 0 0 0 0.5 0.5 0.5 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 188 with values:
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 0 1 fileNumber: 189
+fileNumber: 189 with values:
+0 0 0 0 0 0 0 0 0 0 
+0.5 0.5 0.5 0 0 0 0 0 0 0 
+0.5 0.5 0.5 0 0 0 0 0 0 0 
+0.5 0.5 0.5 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 190 with values:
+0 0 0 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 1 1 fileNumber: 191
+fileNumber: 191 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0.5 0.5 0 0 0 0 0 0 
+0 0.5 0.5 0.5 0 0 0 0 0 0 
+0 0.5 0.5 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 192 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 1 1 1 0 0 0 0 0 0 
+0 1 1 1 0 0 0 0 0 0 
+0 1 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 2 1 fileNumber: 193
+fileNumber: 193 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0.5 0.5 0 0 0 0 0 
+0 0 0.5 0.5 0.5 0 0 0 0 0 
+0 0 0.5 0.5 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 194 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 1 1 0 0 0 0 0 
+0 0 1 1 1 0 0 0 0 0 
+0 0 1 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 3 1 fileNumber: 195
+fileNumber: 195 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0.5 0.5 0 0 0 0 
+0 0 0 0.5 0.5 0.5 0 0 0 0 
+0 0 0 0.5 0.5 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 196 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 4 1 fileNumber: 197
+fileNumber: 197 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0.5 0.5 0 0 0 
+0 0 0 0 0.5 0.5 0.5 0 0 0 
+0 0 0 0 0.5 0.5 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 198 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 1 0 0 0 
+0 0 0 0 1 1 1 0 0 0 
+0 0 0 0 1 1 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 5 1 fileNumber: 199
+fileNumber: 199 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0.5 0.5 0 0 
+0 0 0 0 0 0.5 0.5 0.5 0 0 
+0 0 0 0 0 0.5 0.5 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 200 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 6 1 fileNumber: 201
+fileNumber: 201 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0.5 0.5 0 
+0 0 0 0 0 0 0.5 0.5 0.5 0 
+0 0 0 0 0 0 0.5 0.5 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 202 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 1 0 
+0 0 0 0 0 0 1 1 1 0 
+0 0 0 0 0 0 1 1 1 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 7 1 fileNumber: 203
+fileNumber: 203 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0.5 0.5 0.5 
+0 0 0 0 0 0 0 0.5 0.5 0.5 
+0 0 0 0 0 0 0 0.5 0.5 0.5 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 204 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 0 2 fileNumber: 205
+fileNumber: 205 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0.5 0.5 0.5 0 0 0 0 0 0 0 
+0.5 0.5 0.5 0 0 0 0 0 0 0 
+0.5 0.5 0.5 0 0 0 0 0 0 0 
+fileNumber: 206 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 1 2 fileNumber: 207
+fileNumber: 207 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0.5 0.5 0 0 0 0 0 0 
+0 0.5 0.5 0.5 0 0 0 0 0 0 
+0 0.5 0.5 0.5 0 0 0 0 0 0 
+fileNumber: 208 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 1 1 1 0 0 0 0 0 0 
+0 1 1 1 0 0 0 0 0 0 
+0 1 1 1 0 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 2 2 fileNumber: 209
+fileNumber: 209 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0.5 0.5 0 0 0 0 0 
+0 0 0.5 0.5 0.5 0 0 0 0 0 
+0 0 0.5 0.5 0.5 0 0 0 0 0 
+fileNumber: 210 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 1 1 0 0 0 0 0 
+0 0 1 1 1 0 0 0 0 0 
+0 0 1 1 1 0 0 0 0 0 
+squareSize: 3 xpos,zpos: 3 2 fileNumber: 211
+fileNumber: 211 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0.5 0.5 0 0 0 0 
+0 0 0 0.5 0.5 0.5 0 0 0 0 
+0 0 0 0.5 0.5 0.5 0 0 0 0 
+fileNumber: 212 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+squareSize: 3 xpos,zpos: 4 2 fileNumber: 213
+fileNumber: 213 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0.5 0.5 0 0 0 
+0 0 0 0 0.5 0.5 0.5 0 0 0 
+0 0 0 0 0.5 0.5 0.5 0 0 0 
+fileNumber: 214 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 1 0 0 0 
+0 0 0 0 1 1 1 0 0 0 
+0 0 0 0 1 1 1 0 0 0 
+squareSize: 3 xpos,zpos: 5 2 fileNumber: 215
+fileNumber: 215 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0.5 0.5 0 0 
+0 0 0 0 0 0.5 0.5 0.5 0 0 
+0 0 0 0 0 0.5 0.5 0.5 0 0 
+fileNumber: 216 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 1 1 1 0 0 
+squareSize: 3 xpos,zpos: 6 2 fileNumber: 217
+fileNumber: 217 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0.5 0.5 0 
+0 0 0 0 0 0 0.5 0.5 0.5 0 
+0 0 0 0 0 0 0.5 0.5 0.5 0 
+fileNumber: 218 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 1 0 
+0 0 0 0 0 0 1 1 1 0 
+0 0 0 0 0 0 1 1 1 0 
+squareSize: 3 xpos,zpos: 7 2 fileNumber: 219
+fileNumber: 219 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0.5 0.5 0.5 
+0 0 0 0 0 0 0 0.5 0.5 0.5 
+0 0 0 0 0 0 0 0.5 0.5 0.5 
+fileNumber: 220 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 1 1 1 
+---------------------
+squareSize: 4 xpos,zpos: 0 0 fileNumber: 221
+fileNumber: 221 with values:
+0.5 0.5 0.5 0.5 0 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 222 with values:
+1 1 1 1 0 0 0 0 0 0 
+1 1 1 1 0 0 0 0 0 0 
+1 1 1 1 0 0 0 0 0 0 
+1 1 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 4 xpos,zpos: 1 0 fileNumber: 223
+fileNumber: 223 with values:
+0 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 224 with values:
+0 1 1 1 1 0 0 0 0 0 
+0 1 1 1 1 0 0 0 0 0 
+0 1 1 1 1 0 0 0 0 0 
+0 1 1 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 4 xpos,zpos: 2 0 fileNumber: 225
+fileNumber: 225 with values:
+0 0 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 226 with values:
+0 0 1 1 1 1 0 0 0 0 
+0 0 1 1 1 1 0 0 0 0 
+0 0 1 1 1 1 0 0 0 0 
+0 0 1 1 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 4 xpos,zpos: 3 0 fileNumber: 227
+fileNumber: 227 with values:
+0 0 0 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 228 with values:
+0 0 0 1 1 1 1 0 0 0 
+0 0 0 1 1 1 1 0 0 0 
+0 0 0 1 1 1 1 0 0 0 
+0 0 0 1 1 1 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 4 xpos,zpos: 4 0 fileNumber: 229
+fileNumber: 229 with values:
+0 0 0 0 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 230 with values:
+0 0 0 0 1 1 1 1 0 0 
+0 0 0 0 1 1 1 1 0 0 
+0 0 0 0 1 1 1 1 0 0 
+0 0 0 0 1 1 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 4 xpos,zpos: 5 0 fileNumber: 231
+fileNumber: 231 with values:
+0 0 0 0 0 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 232 with values:
+0 0 0 0 0 1 1 1 1 0 
+0 0 0 0 0 1 1 1 1 0 
+0 0 0 0 0 1 1 1 1 0 
+0 0 0 0 0 1 1 1 1 0 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 4 xpos,zpos: 6 0 fileNumber: 233
+fileNumber: 233 with values:
+0 0 0 0 0 0 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0 0 0 0 0 
+fileNumber: 234 with values:
+0 0 0 0 0 0 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 
+0 0 0 0 0 0 0 0 0 0 
+squareSize: 4 xpos,zpos: 0 1 fileNumber: 235
+fileNumber: 235 with values:
+0 0 0 0 0 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0 0 0 0 0 0 
+fileNumber: 236 with values:
+0 0 0 0 0 0 0 0 0 0 
+1 1 1 1 0 0 0 0 0 0 
+1 1 1 1 0 0 0 0 0 0 
+1 1 1 1 0 0 0 0 0 0 
+1 1 1 1 0 0 0 0 0 0 
+squareSize: 4 xpos,zpos: 1 1 fileNumber: 237
+fileNumber: 237 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0 0 0 0 0 
+fileNumber: 238 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 1 1 1 1 0 0 0 0 0 
+0 1 1 1 1 0 0 0 0 0 
+0 1 1 1 1 0 0 0 0 0 
+0 1 1 1 1 0 0 0 0 0 
+squareSize: 4 xpos,zpos: 2 1 fileNumber: 239
+fileNumber: 239 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0 0 0 0 
+fileNumber: 240 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 1 1 1 1 0 0 0 0 
+0 0 1 1 1 1 0 0 0 0 
+0 0 1 1 1 1 0 0 0 0 
+0 0 1 1 1 1 0 0 0 0 
+squareSize: 4 xpos,zpos: 3 1 fileNumber: 241
+fileNumber: 241 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0 0 0 
+fileNumber: 242 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 1 0 0 0 
+0 0 0 1 1 1 1 0 0 0 
+0 0 0 1 1 1 1 0 0 0 
+0 0 0 1 1 1 1 0 0 0 
+squareSize: 4 xpos,zpos: 4 1 fileNumber: 243
+fileNumber: 243 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0 0 
+fileNumber: 244 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 1 1 0 0 
+0 0 0 0 1 1 1 1 0 0 
+0 0 0 0 1 1 1 1 0 0 
+0 0 0 0 1 1 1 1 0 0 
+squareSize: 4 xpos,zpos: 5 1 fileNumber: 245
+fileNumber: 245 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0 
+fileNumber: 246 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 1 1 1 0 
+0 0 0 0 0 1 1 1 1 0 
+0 0 0 0 0 1 1 1 1 0 
+0 0 0 0 0 1 1 1 1 0 
+squareSize: 4 xpos,zpos: 6 1 fileNumber: 247
+fileNumber: 247 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0 0.5 0.5 0.5 0.5 
+fileNumber: 248 with values:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 
+---------------------
+squareSize: 5 xpos,zpos: 0 0 fileNumber: 249
+fileNumber: 249 with values:
+0.5 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0.5 0 0 0 0 0 
+0.5 0.5 0.5 0.5 0.5 0 0 0 0 0 
+fileNumber: 250 with values:
+1 1 1 1 1 0 0 0 0 0 
+1 1 1 1 1 0 0 0 0 0 
+1 1 1 1 1 0 0 0 0 0 
+1 1 1 1 1 0 0 0 0 0 
+1 1 1 1 1 0 0 0 0 0 
+squareSize: 5 xpos,zpos: 1 0 fileNumber: 251
+fileNumber: 251 with values:
+0 0.5 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0.5 0 0 0 0 
+0 0.5 0.5 0.5 0.5 0.5 0 0 0 0 
+fileNumber: 252 with values:
+0 1 1 1 1 1 0 0 0 0 
+0 1 1 1 1 1 0 0 0 0 
+0 1 1 1 1 1 0 0 0 0 
+0 1 1 1 1 1 0 0 0 0 
+0 1 1 1 1 1 0 0 0 0 
+squareSize: 5 xpos,zpos: 2 0 fileNumber: 253
+fileNumber: 253 with values:
+0 0 0.5 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0.5 0 0 0 
+0 0 0.5 0.5 0.5 0.5 0.5 0 0 0 
+fileNumber: 254 with values:
+0 0 1 1 1 1 1 0 0 0 
+0 0 1 1 1 1 1 0 0 0 
+0 0 1 1 1 1 1 0 0 0 
+0 0 1 1 1 1 1 0 0 0 
+0 0 1 1 1 1 1 0 0 0 
+squareSize: 5 xpos,zpos: 3 0 fileNumber: 255
+fileNumber: 255 with values:
+0 0 0 0.5 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0.5 0 0 
+0 0 0 0.5 0.5 0.5 0.5 0.5 0 0 
+fileNumber: 256 with values:
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+squareSize: 5 xpos,zpos: 4 0 fileNumber: 257
+fileNumber: 257 with values:
+0 0 0 0 0.5 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0.5 0 
+0 0 0 0 0.5 0.5 0.5 0.5 0.5 0 
+fileNumber: 258 with values:
+0 0 0 0 1 1 1 1 1 0 
+0 0 0 0 1 1 1 1 1 0 
+0 0 0 0 1 1 1 1 1 0 
+0 0 0 0 1 1 1 1 1 0 
+0 0 0 0 1 1 1 1 1 0 
+squareSize: 5 xpos,zpos: 5 0 fileNumber: 259
+fileNumber: 259 with values:
+0 0 0 0 0 0.5 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0.5 
+0 0 0 0 0 0.5 0.5 0.5 0.5 0.5 
+fileNumber: 260 with values:
+0 0 0 0 0 1 1 1 1 1 
+0 0 0 0 0 1 1 1 1 1 
+0 0 0 0 0 1 1 1 1 1 
+0 0 0 0 0 1 1 1 1 1 
+0 0 0 0 0 1 1 1 1 1 
+---------------------
