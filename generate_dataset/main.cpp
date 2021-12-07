@@ -4,6 +4,9 @@
 #include <algorithm>
 #include <chrono>
 #include <ctime>
+#include <omp.h>
+#include <iomanip>
+
 #include "task.h"
 
 const std::string inputGridFile = "grid.txt";
@@ -151,7 +154,6 @@ void magicShit(int& fileNumber, int& allcount, int currentValuesLvl, int usedVal
 				auto t1 = high_resolution_clock::now();
 
 				generateTxtFile(fileNumber, values);
-				caluclateDirectTask(fileNumber);
 				debugPrintValues(values, xsize, fileNumber);
 
 				auto t2 = high_resolution_clock::now();
@@ -186,6 +188,42 @@ void magicShit(int& fileNumber, int& allcount, int currentValuesLvl, int usedVal
 	}
 }
 
+
+void calculateDirectTasks() {
+	int currentCount = 0;
+	omp_lock_t writelock;
+	omp_init_lock(&writelock);
+
+	auto calculatingStartTime = high_resolution_clock::now();
+
+#pragma omp parallel for
+	for (int i = 0; i < generatedFilesAmount; i++) {
+		int numOfThreads = omp_get_num_threads();
+		int fileNumber = i;
+
+#pragma omp atomic
+		currentCount++;
+
+		// -------------- main work ---------------------
+		caluclateDirectTask(fileNumber);
+		// -------------- main work ---------------------
+
+		if (currentCount % 50 == 0)
+		{
+			omp_set_lock(&writelock);
+			auto currentCalculationTime = high_resolution_clock::now();
+			auto alreadyTookMs = duration_cast<milliseconds>(currentCalculationTime - calculatingStartTime);
+
+			int tookSeconds = alreadyTookMs.count() / 1000;
+			float progressPercentage = (float)currentCount / generatedFilesAmount * 100;
+
+			std::cout << "\r calculated " << currentCount << " files. With " << numOfThreads << " threads. ";
+			std::cout << "Progeress: " << std::setprecision(4) << progressPercentage << "%, it took: " << alreadyTookMs.count() / 1000  << " sec";
+			omp_unset_lock(&writelock);
+		}
+	}
+}
+
 int main() {
 	logFile.open(logsFolderName + currentDateTime() + logFileName);
 
@@ -204,7 +242,11 @@ int main() {
 	std::cout << "Will be generated and calculated " << generatedFilesAmount << " files" << std::endl;
 	logFile << "Will be generated and calculated " << generatedFilesAmount << " files" << std::endl;
 
+	std::cout << "start generating files" << std::endl;
 	magicShit(fileNumber, allcount, 0, 0, values);
+
+	std::cout << "start calculating direct tasks" << std::endl;
+	calculateDirectTasks();
 
 	return 0;
 }
