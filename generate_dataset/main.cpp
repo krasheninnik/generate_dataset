@@ -160,13 +160,13 @@ void magicShit(int& fileNumber, int& allcount, int currentValuesLvl, int usedVal
 				/* Getting number of milliseconds as an integer. */
 				auto oneTookMs = duration_cast<milliseconds>(t2 - t1);
 
-				if (fileNumber % 1 == 0) {
+				if (fileNumber % 50 == 0) {
 					long leftToDo = generatedFilesAmount - fileNumber;
 					int remainigSeconds = leftToDo * oneTookMs.count() / 1000;
 					float progressPercentage = (float)fileNumber / generatedFilesAmount * 100;
 
 					std::cout << "\r generated " << fileNumber << " file. One Took: " << oneTookMs.count();
-					std::cout << "ms. Progerss: " << progressPercentage << "%, remaining seconds: " << remainigSeconds;
+					std::cout << "ms. Progerss: " << std::setprecision(4) << progressPercentage << "%, remaining seconds: " << remainigSeconds;
 				}
 
 				fileNumber++;
@@ -245,7 +245,7 @@ int main() {
 	std::cout << "start generating files" << std::endl;
 	magicShit(fileNumber, allcount, 0, 0, values);
 
-	std::cout << "start calculating direct tasks" << std::endl;
+	std::cout << std::endl << "start calculating direct tasks" << std::endl;
 	calculateDirectTasks();
 
 	return 0;
