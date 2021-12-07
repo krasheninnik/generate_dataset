@@ -14,9 +14,16 @@ const std::string outputFile = "_result.txt";
 const std::string generateParams = "params.txt";
 const std::string logsFolderName = "logs/";
 const std::string logFileName = "_log.txt";
+const std::string calculateInfoFile = "calculateInfoFile.txt";
 
-// grid 5 x 10
-// values: 0, 0.5, 1
+using std::chrono::high_resolution_clock;
+using std::chrono::duration_cast;
+using std::chrono::duration;
+using std::chrono::milliseconds;
+
+const int maxUsedValuesAmount = 3;
+const int allCountFilter = 2; // позволяет выбирать один из заданного значения
+int xsize = 0; // yep, wanna global variable. why not?
 
 const std::vector<float> referenceValues {0.5, 1};
 uint64_t generatedFilesAmount = 1;
@@ -51,12 +58,16 @@ void caluclateDirectTask(int number)
 }
 
 void debugPrintValues(std::vector<float> values, int xsize, int fileNumber) {
-	logFile << "fileNumber: " << fileNumber << " with values:";
+	int nonZeroValues = 0;
+	for (double value : values) if (value != 0) nonZeroValues++;
+
+	logFile << "fileNumber: " << fileNumber << " with values (amount " << nonZeroValues << "):";
 	for (int i = 0; i < values.size(); i++) {
 		if ((i) % xsize == 0) logFile << std::endl;
 		logFile << values[i] << " ";
 	}
 	logFile << std::endl;
+	logFile << "---------------------------------------------" << std::endl;
 }
 
 void setValueInSquare(int squareSize, int zpos, int xsize, int xpos, float currentValueInSquare, std::vector<float>& values) {
@@ -94,6 +105,29 @@ int calculateAmoutOfGeneratedFiles(int xsize, int zsize, int maxSquareSize) {
 	return result;
 }
 
+
+uint64_t calculateAmoutOfGeneratedFilesRecur(int gridSize) {
+	uint64_t result = 0;
+	int minsize = std::min(gridSize, maxUsedValuesAmount);
+
+	for (int j = minsize; j > 0; j--) {
+		uint64_t combinationsFromGridResult = 1;
+		// сколькими способами можно вытащить j клеток из gridSize 
+		// (неупорядочкенная выборка из gridSize по j)
+		int diff = gridSize - j + 1;
+		for (int i = diff; i <= gridSize; i++) combinationsFromGridResult *= i;
+		for (int i = 2; i <= j; i++) combinationsFromGridResult /= i;
+
+		// перестановки с повторением из J значений множества ReferenceValues:
+		uint64_t referenceValuesCombinations = 1;
+		for (int i = 0; i < j; i++) referenceValuesCombinations *= referenceValues.size();
+
+		result += combinationsFromGridResult * referenceValuesCombinations;
+	}
+
+	return result;
+}
+
 const std::string currentDateTime() {
 	time_t     now = time(0);
 	struct tm  tstruct;
@@ -106,42 +140,71 @@ const std::string currentDateTime() {
 	return buf;
 }
 
+
+void magicShit(int& fileNumber, int& allcount, int currentValuesLvl, int usedValuesCount, std::vector<float> values) {
+	if (usedValuesCount > maxUsedValuesAmount) return;
+
+	// if all Values have been formed - generate input file
+	if (currentValuesLvl == values.size()) {
+		if (usedValuesCount <= maxUsedValuesAmount) {
+			if (allcount++ % allCountFilter == 0) {
+				auto t1 = high_resolution_clock::now();
+
+				generateTxtFile(fileNumber, values);
+				caluclateDirectTask(fileNumber);
+				debugPrintValues(values, xsize, fileNumber);
+
+				auto t2 = high_resolution_clock::now();
+				/* Getting number of milliseconds as an integer. */
+				auto oneTookMs = duration_cast<milliseconds>(t2 - t1);
+
+				if (fileNumber % 1 == 0) {
+					long leftToDo = generatedFilesAmount - fileNumber;
+					int remainigSeconds = leftToDo * oneTookMs.count() / 1000;
+					float progressPercentage = (float)fileNumber / generatedFilesAmount * 100;
+
+					std::cout << "\r generated " << fileNumber << " file. One Took: " << oneTookMs.count();
+					std::cout << "ms. Progerss: " << progressPercentage << "%, remaining seconds: " << remainigSeconds;
+				}
+
+				fileNumber++;
+			}
+		}
+		return;
+	}
+
+	// continute forming Values:
+	int nextLvl = currentValuesLvl + 1;
+	int nextUsedValuesCount = usedValuesCount + 1;
+
+	// forming with 0 in currentValuesLvl place
+	magicShit(fileNumber, allcount, nextLvl, usedValuesCount, values);
+
+	for (int i = 0; i < referenceValues.size(); i++) {
+		values[currentValuesLvl] = referenceValues[i];
+		magicShit(fileNumber, allcount, nextLvl, nextUsedValuesCount, values);
+	}
+}
+
 int main() {
 	logFile.open(logsFolderName + currentDateTime() + logFileName);
 
 	auto gridSizes = getGridSize();
-	int xsize = gridSizes[0];
+	xsize = gridSizes[0];
 	int zsize = gridSizes[2];
 	auto gridSize = xsize * zsize;
 	auto values = std::vector<float>(gridSize);
 
 	int maxSquareSize = std::min(gridSizes[0], gridSizes[2]); // min from X or Z <3
 	int fileNumber = 0;
+	int allcount = 0;
 
-	int amountOfGeneratedFiles = calculateAmoutOfGeneratedFiles(xsize, zsize, maxSquareSize);
-	std::cout << "Will be generated and calculated " << amountOfGeneratedFiles << " files" << std::endl;
-	logFile << "Will be generated and calculated " << amountOfGeneratedFiles << " files" << std::endl;
+	generatedFilesAmount = calculateAmoutOfGeneratedFilesRecur(gridSize);
+	generatedFilesAmount /= allCountFilter;
+	std::cout << "Will be generated and calculated " << generatedFilesAmount << " files" << std::endl;
+	logFile << "Will be generated and calculated " << generatedFilesAmount << " files" << std::endl;
 
-	// calculate with zero
-	generateTxtFile(fileNumber, values);
-	caluclateDirectTask(fileNumber);
-	debugPrintValues(values, xsize, fileNumber);
-	fileNumber++;
-
-	for (int squareSize = 1; squareSize <= maxSquareSize; squareSize++)
-	{
-		int zposition = 0;
-		while (zsize - zposition - squareSize >= 0) {
-			int xposition = 0;
-			while (xsize - xposition - squareSize >= 0) {
-				makeMagicThings(xposition, zposition, squareSize, fileNumber, values, xsize);
-				xposition++;
-				std::cout << "\r progress: " << fileNumber / (float)amountOfGeneratedFiles * 100 << "%";
-			}
-			zposition++;	
-		}
-		logFile << "---------------------" << std::endl;
-	}
+	magicShit(fileNumber, allcount, 0, 0, values);
 
 	return 0;
 }
